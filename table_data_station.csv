@@ -1,1 +1,11 @@
-
+id,ente,regione,prov,,lat,lon
+Id_1,ASL 2,Toscana,LU,Capannori,43.8476,10.575
+Id_2,Terreno privato Mignone,Liguria,IM,Diano Castello,43.931272,8.060915
+Id_3,ASL 6,Toscana,LI,ASL 6,43.5409,10.30544
+Id_4,Univeristà  Agraria,Toscana,PI,Pisa,43.711,10.4138
+Id_5,IZS,Toscana,PI,Pisa,43.72534,10.41377
+Id_6,ASL 9,Toscana,GR,Grosseto,42.75685,11.09736
+Id_7,CFS ,Liguria,IM,Imperia,43.898576,8.033163
+Id_8,ASL 2,Toscana,LU,Gallicano,44.06203,10.439237
+Id_9,CNR LaMMa,Toscana,FI,Sesto Fiorentino,43.818825,11.201835
+Id_10,Coop il Rastrello,Liguria,GE,Genova,44.425422,8.885669
